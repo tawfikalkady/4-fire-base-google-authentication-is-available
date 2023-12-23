@@ -1,11 +1,21 @@
 npm create vite@latest
->react
->js
-cd fire-base-google-authentication-try
-npm install
-npm run dev
+
+fire-base-google-authentication
+
+react
+
+js
+
+firebase
 
 npm install firebase
+
+https://console.firebase.google.com/u/0/project/fir-authentication-a9283/authentication/providers
+
+https://firebase.google.com/docs/auth/web/google-signin?hl=en&authuser=0
+
+
+
 
 
 
