@@ -1,0 +1,49 @@
+npm create vite@latest
+>react
+>js
+cd fire-base-google-authentication-try
+npm install
+npm run dev
+
+npm install firebase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
